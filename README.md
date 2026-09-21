@@ -3,3 +3,5 @@
 add a sentence.
 
 Just to try what will happen after commit
+
+This sentence was added on GitHub.
