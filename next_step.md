@@ -1,2 +1,1 @@
-Next step: choose a data source.
-try things out
+Next step: compare two data sources and check their licenses.
